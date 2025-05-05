@@ -530,6 +530,7 @@
     <Compile Include="Assets/Base/3Party/Best HTTP (Pro)/BestHTTP/SecureProtocol/crypto/tls/CipherSuite.cs" />
     <Compile Include="Assets/Base/00_BaseCode/Scripts/Utility/GetSheet/GetTypeLevel.cs" />
     <Compile Include="Assets/Base/3Party/Best HTTP (Pro)/BestHTTP/WebSocket/Extensions/IExtension.cs" />
+    <Compile Include="Assets/ArtPuzzleFood/EditLevel.cs" />
     <Compile Include="Assets/Base/3Party/Best HTTP (Pro)/BestHTTP/SecureProtocol/math/ec/endo/ECEndomorphism.cs" />
     <Compile Include="Assets/MyTools/Unity-Logs-Viewer/Reporter/Reporter.cs" />
     <Compile Include="Assets/Base/3Party/Best HTTP (Pro)/BestHTTP/Caching/HTTPCacheService.cs" />
@@ -957,6 +958,7 @@
     <Compile Include="Assets/com.unity.uiextensions/Runtime/Scripts/Layout/CardUI/Superellipse Creation/Triangulator.cs" />
     <Compile Include="Assets/com.unity.uiextensions/Runtime/Scripts/Effects/ShineEffector.cs" />
     <Compile Include="Assets/Base/3Party/Best HTTP (Pro)/BestHTTP/SecureProtocol/asn1/x509/DistributionPointName.cs" />
+    <Compile Include="Assets/Emojis 45/Scripts/ParentFitter.cs" />
     <Compile Include="Assets/Base/3Party/Best HTTP (Pro)/BestHTTP/SecureProtocol/crypto/modes/gcm/IGcmMultiplier.cs" />
     <Compile Include="Assets/Base/3Party/Best HTTP (Pro)/BestHTTP/SecureProtocol/util/collections/EnumerableProxy.cs" />
     <Compile Include="Assets/Base/3Party/Best HTTP (Pro)/BestHTTP/Cookies/CookieJar.cs" />
@@ -1269,18 +1271,23 @@
     <Compile Include="Assets/Base/3Party/Best HTTP (Pro)/BestHTTP/SecureProtocol/math/ec/custom/sec/SecT163R1Curve.cs" />
   </ItemGroup>
   <ItemGroup>
+    <None Include="Assets/Emojis 45/Demo/unity-chan!/Unity-chan! Model/Art/UnityChanShader/Shader/Unitychan_chara_fuku.shader" />
     <None Include="Assets/com.unity.uiextensions/Runtime/Resources/Shaders/UIAdditive.shader" />
     <None Include="Assets/TextMesh Pro/Shaders/TMPro.cginc" />
     <None Include="Assets/Spine/version.txt" />
     <None Include="Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile Overlay.shader" />
     <None Include="Assets/com.unity.uiextensions/Runtime/Resources/Shaders/UI Particle Add.shader" />
     <None Include="Assets/Base/Plugins/Android/AndroidManifest.xml" />
+    <None Include="Assets/Emojis 45/Demo/unity-chan!/Unity-chan! Model/Art/UnityChanShader/Shader/Unitychan_chara_akarami_blend.shader" />
     <None Include="Assets/TextMesh Pro/Shaders/TMP_Bitmap.shader" />
     <None Include="Assets/com.unity.uiextensions/Runtime/Resources/Shaders/UIScreen.shader" />
     <None Include="Assets/com.unity.uiextensions/Runtime/Resources/Shaders/UI Particle Multiply.shader" />
     <None Include="Assets/Base/3Party/NiceVibrations/OlderVersions/v2.0.1/NiceVibrations-v-2-0-1-readme.txt" />
     <None Include="Assets/com.unity.uiextensions/Runtime/Resources/Shaders/UIMultiply.shader" />
     <None Include="Assets/Base/Plugins/Sirenix/Assemblies/NoEmitAndNoEditor/Sirenix.Serialization.dll" />
+    <None Include="Assets/Emojis 45/Demo/unity-chan!/Unity-chan! Model/Art/UnityChanShader/Shader/Unitychan_chara_hair_ds.shader" />
+    <None Include="Assets/Emojis 45/Read Me.txt" />
+    <None Include="Assets/Emojis 45/Demo/unity-chan!/Unity-chan! Model/Art/UnityChanShader/Shader/Unitychan_chara_hada.shader" />
     <None Include="Assets/com.unity.uiextensions/Runtime/Resources/Shaders/UILinearDodge.shader" />
     <None Include="Assets/TextMesh Pro/Shaders/TMPro_Mobile.cginc" />
     <None Include="Assets/com.unity.uiextensions/Runtime/Resources/Shaders/UI Particle Alpha Blend.shader" />
@@ -1299,6 +1306,8 @@
     <None Include="Assets/com.unity.uiextensions/Runtime/Resources/Shaders/UI Particle VertexLit Blended.shader" />
     <None Include="Assets/TextMesh Pro/Shaders/TMP_SDF-Surface-Mobile.shader" />
     <None Include="Assets/Base/Plugins/Sirenix/Assemblies/NoEditor/Sirenix.Serialization.dll" />
+    <None Include="Assets/Emojis 45/Demo/unity-chan!/Unity-chan! Model/Art/UnityChanShader/Shader/Unitychan_chara_fuku_ds.shader" />
+    <None Include="Assets/Emojis 45/Demo/unity-chan!/Unity-chan! Model/Art/UnityChanShader/Shader/Unitychan_chara_eyelash_blend.shader" />
     <None Include="Assets/com.unity.uiextensions/Runtime/Resources/Shaders/UI Particle MultiplyDouble.shader" />
     <None Include="Assets/Base/Plugins/Sirenix/Assemblies/Sirenix.OdinInspector.Attributes.xml" />
     <None Include="Assets/Base/Plugins/Sirenix/Assemblies/Sirenix.OdinInspector.Attributes.dll" />
@@ -1320,12 +1329,14 @@
     <None Include="Assets/Demigiant/DOTween.XML" />
     <None Include="Assets/TextMesh Pro/Shaders/TMPro_Surface.cginc" />
     <None Include="Assets/Base/Plugins/Sirenix/Readme.txt" />
+    <None Include="Assets/Emojis 45/Demo/unity-chan!/Unity-chan! Model/Art/UnityChanShader/Shader/Unitychan_chara_hada_blend.shader" />
     <None Include="Assets/MaxSdk/Mediation/MediationAdapters.txt" />
     <None Include="Assets/Base/3Party/CodeStage/AntiCheatToolkit/Integration/readme.txt" />
     <None Include="Assets/TextMesh Pro/Resources/LineBreaking Following Characters.txt" />
     <None Include="Assets/GooglePlayPlugins/com.google.play.review/Proguard/review.txt" />
     <None Include="Assets/Base/3Party/NiceVibrations/readme.txt" />
     <None Include="Assets/Base/Plugins/Sirenix/Assemblies/link.xml" />
+    <None Include="Assets/Emojis 45/Demo/unity-chan!/Unity-chan! Model/Art/UnityChanShader/Shader/Unitychan_chara_eye.shader" />
     <None Include="Assets/com.unity.uiextensions/Runtime/Resources/Shaders/UISoftAdditive.shader" />
     <None Include="Assets/Base/00_BaseCode/Scripts/Utility/CrystalFramework/Utility/Demos/SafeAreaDemo.txt" />
     <None Include="Assets/Base/3Party/NiceVibrations/license.txt" />
@@ -1339,6 +1350,7 @@
     <None Include="Assets/ParticleEffectForUGUI-3.3.10/Shaders/UIAdditive.shader" />
     <None Include="Assets/Base/3Party/Best HTTP (Pro)/BestHTTP/SecureProtocol/License.txt" />
     <None Include="Assets/Base/3Party/Joker2X/FileHelpers.dll" />
+    <None Include="Assets/Emojis 45/Demo/unity-chan!/Unity-chan! Model/Art/Stage/Shader/AlphaMask.shader" />
     <None Include="Assets/TextMesh Pro/Shaders/TMP_SDF Overlay.shader" />
     <None Include="Assets/Base/3Party/Best HTTP (Pro)/link.xml" />
     <None Include="Assets/Base/Plugins/Sirenix/Assemblies/NoEmitAndNoEditor/Sirenix.Utilities.dll" />
@@ -1346,9 +1358,11 @@
     <None Include="Assets/TextMesh Pro/Fonts/LiberationSans - OFL.txt" />
     <None Include="Assets/Base/3Party/CodeStage/AntiCheatToolkit/Third-Party Notices.txt" />
     <None Include="Assets/Base/3Party/Best HTTP (Pro)/ReleaseNotes.txt" />
+    <None Include="Assets/Emojis 45/Demo/unity-chan!/Unity-chan! Model/Art/UnityChanShader/Shader/Unitychan_chara_hair.shader" />
     <None Include="Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile.shader" />
     <None Include="Assets/Base/Plugins/Sirenix/Assemblies/Sirenix.Serialization.dll" />
     <None Include="Assets/Base/Plugins/Sirenix/Assemblies/Sirenix.Serialization.xml" />
+    <None Include="Assets/Emojis 45/Demo/unity-chan!/Unity-chan! Model/Art/UnityChanShader/Shader/Unitychan_chara_eye_blend.shader" />
     <None Include="Assets/TextMesh Pro/Shaders/TMP_Sprite.shader" />
     <None Include="Assets/com.unity.uiextensions/Runtime/Resources/Shaders/UIParticleHidden.shader" />
   </ItemGroup>
