@@ -17,8 +17,8 @@ public class GameScene : BaseScene
  
     public void Init(LevelData levelData)
     {
-    
-     
+
+        tvLevel.text = "Level " + UseProfile.CurrentLevel;
     }
 
     public override void OnEscapeWhenStackBoxEmpty()

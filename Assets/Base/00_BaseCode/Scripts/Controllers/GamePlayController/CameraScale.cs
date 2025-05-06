@@ -8,10 +8,10 @@ public class CameraScale : MonoBehaviour
     private Camera cam;
     public float Speed;
  
-    public void Init()
+    public void Init(Vector3 left, Vector3 right)
     {
         cam = Camera.main;
-      
+        StartCoroutine(FixScreen(left, right));
     }
 
     public IEnumerator FixScreen(Vector3 left, Vector3 right)

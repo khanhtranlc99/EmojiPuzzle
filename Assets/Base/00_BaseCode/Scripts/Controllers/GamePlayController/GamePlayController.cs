@@ -37,10 +37,11 @@ public class GamePlayController : Singleton<GamePlayController>
 
    
         playerContain.Init();
- 
-     
-     
-      
+        gameScene.Init(playerContain.levelData);
+
+
+
+
     }
    
 }

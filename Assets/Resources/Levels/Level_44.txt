@@ -1,0 +1,138 @@
+{
+  "id": 44,
+  "numbMove": 0,
+  "dataBlock": [
+    [
+      {
+        "valueNumber": 2,
+        "isActive": 0
+      },
+      {
+        "valueNumber": 1,
+        "isActive": 0
+      },
+      {
+        "valueNumber": 20,
+        "isActive": 0
+      },
+      {
+        "valueNumber": 19,
+        "isActive": 0
+      },
+      {
+        "valueNumber": 0,
+        "isActive": 0
+      }
+    ],
+    [
+      {
+        "valueNumber": 3,
+        "isActive": 0
+      },
+      {
+        "valueNumber": 0,
+        "isActive": 0
+      },
+      {
+        "valueNumber": 21,
+        "isActive": 0
+      },
+      {
+        "valueNumber": 18,
+        "isActive": 0
+      },
+      {
+        "valueNumber": 17,
+        "isActive": 0
+      }
+    ],
+    [
+      {
+        "valueNumber": 4,
+        "isActive": 0
+      },
+      {
+        "valueNumber": 5,
+        "isActive": 0
+      },
+      {
+        "valueNumber": 22,
+        "isActive": 0
+      },
+      {
+        "valueNumber": 23,
+        "isActive": 0
+      },
+      {
+        "valueNumber": 16,
+        "isActive": 0
+      }
+    ],
+    [
+      {
+        "valueNumber": 7,
+        "isActive": 0
+      },
+      {
+        "valueNumber": 6,
+        "isActive": 0
+      },
+      {
+        "valueNumber": 0,
+        "isActive": 0
+      },
+      {
+        "valueNumber": 14,
+        "isActive": 0
+      },
+      {
+        "valueNumber": 15,
+        "isActive": 0
+      }
+    ],
+    [
+      {
+        "valueNumber": 8,
+        "isActive": 0
+      },
+      {
+        "valueNumber": 9,
+        "isActive": 0
+      },
+      {
+        "valueNumber": 10,
+        "isActive": 0
+      },
+      {
+        "valueNumber": 13,
+        "isActive": 0
+      },
+      {
+        "valueNumber": 0,
+        "isActive": 0
+      }
+    ],
+    [
+      {
+        "valueNumber": 0,
+        "isActive": 0
+      },
+      {
+        "valueNumber": 0,
+        "isActive": 0
+      },
+      {
+        "valueNumber": 11,
+        "isActive": 0
+      },
+      {
+        "valueNumber": 12,
+        "isActive": 0
+      },
+      {
+        "valueNumber": 0,
+        "isActive": 0
+      }
+    ]
+  ]
+}

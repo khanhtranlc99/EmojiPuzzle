@@ -20,44 +20,50 @@ public class Winbox : BaseBox
     }
 
     public Button nextButton;
-    public Button rewardButton;
-    public CoinHeartBar coinHeartBar;
-    public Text tvCoin;
-    public Text tvCoin_2;
-    public CanvasGroup canvasGroup;
+   // public GiftBar giftBar;
+
+
+
     public void Init()
     {
-        nextButton.onClick.AddListener(delegate { HandleNext();    });
-        rewardButton.onClick.AddListener(delegate { HandleReward(); });
- 
-        coinHeartBar.Init();
-        UseProfile.CurrentLevel += 1;
-        if(UseProfile.CurrentLevel >= 84)
-        {
-            UseProfile.CurrentLevel = 84;
-        }    
+        nextButton.onClick.AddListener(delegate { HandleNext(); });
+        nextButton.transform.localScale = Vector3.zero;
+        GameController.Instance.AnalyticsController.WinLevel(UseProfile.CurrentLevel);
+
         UseProfile.WinStreak += 1;
-  
         GameController.Instance.musicManager.PlayWinSound();
-    }   
+    }
     public void InitState()
     {
 
-        GameController.Instance.AnalyticsController.WinLevel(UseProfile.CurrentLevel);
+     //   giftBar.Init(this, delegate { HandleScaleBtn(); });
+        UseProfile.CurrentLevel += 1;
+        if (UseProfile.CurrentLevel >= 500)
+        {
+            UseProfile.CurrentLevel = 500;
+        }
+        //   GameController.Instance.admobAds.HandleShowMerec();
 
-     
-    }    
-    private void HandleNext()
+        HandleScaleBtn();
+
+    }
+
+    private void HandleScaleBtn()
+    {
+        nextButton.transform.DOScale(new Vector3(1, 1, 1), 0.5f);
+    }
+    public void HandleNext()
     {
         GameController.Instance.musicManager.PlayClickSound();
- 
-     
-       
+
+
+
         GameController.Instance.admobAds.ShowInterstitial(false, actionIniterClose: () => { Next(); }, actionWatchLog: "InterWinBox");
         void Next()
         {
-   
+
             Close();
+           // GameController.Instance.admobAds.HandleHideMerec();
             Initiate.Fade("GamePlay", Color.black, 2f);
 
         }
@@ -70,7 +76,7 @@ public class Winbox : BaseBox
                    {
                        Close();
                        //GameController.Instance.admobAds.HandleHideMerec();
-                    
+
                        List<GiftRewardShow> giftRewardShows = new List<GiftRewardShow>();
                        giftRewardShows.Add(new GiftRewardShow() { amount = 1, type = GiftType.Coin });
                        PopupRewardBase.Setup(false).Show(giftRewardShows, delegate {
@@ -81,13 +87,7 @@ public class Winbox : BaseBox
                    },
                    actionNotLoadedVideo: () =>
                    {
-                       GameController.Instance.moneyEffectController.SpawnEffectText_FlyUp_UI
-                        (rewardButton.transform,
-                        rewardButton.transform.position,
-                        "No video at the moment!",
-                        Color.white,
-                        isSpawnItemPlayer: true
-                        );
+
                    },
                    actionClose: null,
                    ActionWatchVideo.WinBox_Claim_Coin,
@@ -95,6 +95,7 @@ public class Winbox : BaseBox
     }
     private void OnDestroy()
     {
-        
+
     }
+
 }

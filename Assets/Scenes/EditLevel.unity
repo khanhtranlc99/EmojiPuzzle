@@ -123,6 +123,545 @@ NavMeshSettings:
     debug:
       m_Flags: 0
   m_NavMeshData: {fileID: 0}
+--- !u!1 &132923760
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 132923762}
+  - component: {fileID: 132923761}
+  m_Layer: 0
+  m_Name: GameObject
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!114 &132923761
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 132923760}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4938d1b15506541bf98b3d08eaf93425, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes:
+    - Name: dataBlock
+      Entry: 7
+      Data: 0|Data[,], Assembly-CSharp
+    - Name: 
+      Entry: 12
+      Data: 36
+    - Name: ranks
+      Entry: 1
+      Data: 6|6
+    - Name: 
+      Entry: 7
+      Data: 1|Data, Assembly-CSharp
+    - Name: valueNumber
+      Entry: 3
+      Data: 19
+    - Name: isActive
+      Entry: 3
+      Data: 0
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 2|Data, Assembly-CSharp
+    - Name: valueNumber
+      Entry: 3
+      Data: 20
+    - Name: isActive
+      Entry: 3
+      Data: 0
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 3|Data, Assembly-CSharp
+    - Name: valueNumber
+      Entry: 3
+      Data: 21
+    - Name: isActive
+      Entry: 3
+      Data: 0
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 4|Data, Assembly-CSharp
+    - Name: valueNumber
+      Entry: 3
+      Data: 22
+    - Name: isActive
+      Entry: 3
+      Data: 0
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 5|Data, Assembly-CSharp
+    - Name: valueNumber
+      Entry: 3
+      Data: 23
+    - Name: isActive
+      Entry: 3
+      Data: 0
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 6|Data, Assembly-CSharp
+    - Name: valueNumber
+      Entry: 3
+      Data: 24
+    - Name: isActive
+      Entry: 3
+      Data: 0
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 7|Data, Assembly-CSharp
+    - Name: valueNumber
+      Entry: 3
+      Data: 18
+    - Name: isActive
+      Entry: 3
+      Data: 0
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 8|Data, Assembly-CSharp
+    - Name: valueNumber
+      Entry: 3
+      Data: 17
+    - Name: isActive
+      Entry: 3
+      Data: 0
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 9|Data, Assembly-CSharp
+    - Name: valueNumber
+      Entry: 3
+      Data: 16
+    - Name: isActive
+      Entry: 3
+      Data: 0
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 10|Data, Assembly-CSharp
+    - Name: valueNumber
+      Entry: 3
+      Data: 15
+    - Name: isActive
+      Entry: 3
+      Data: 0
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 11|Data, Assembly-CSharp
+    - Name: valueNumber
+      Entry: 3
+      Data: 30
+    - Name: isActive
+      Entry: 3
+      Data: 0
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 12|Data, Assembly-CSharp
+    - Name: valueNumber
+      Entry: 3
+      Data: 25
+    - Name: isActive
+      Entry: 3
+      Data: 0
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 13|Data, Assembly-CSharp
+    - Name: valueNumber
+      Entry: 3
+      Data: 11
+    - Name: isActive
+      Entry: 3
+      Data: 0
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 14|Data, Assembly-CSharp
+    - Name: valueNumber
+      Entry: 3
+      Data: 12
+    - Name: isActive
+      Entry: 3
+      Data: 0
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 15|Data, Assembly-CSharp
+    - Name: valueNumber
+      Entry: 3
+      Data: 13
+    - Name: isActive
+      Entry: 3
+      Data: 0
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 16|Data, Assembly-CSharp
+    - Name: valueNumber
+      Entry: 3
+      Data: 14
+    - Name: isActive
+      Entry: 3
+      Data: 0
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 17|Data, Assembly-CSharp
+    - Name: valueNumber
+      Entry: 3
+      Data: 29
+    - Name: isActive
+      Entry: 3
+      Data: 0
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 18|Data, Assembly-CSharp
+    - Name: valueNumber
+      Entry: 3
+      Data: 26
+    - Name: isActive
+      Entry: 3
+      Data: 0
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 19|Data, Assembly-CSharp
+    - Name: valueNumber
+      Entry: 3
+      Data: 10
+    - Name: isActive
+      Entry: 3
+      Data: 0
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 20|Data, Assembly-CSharp
+    - Name: valueNumber
+      Entry: 3
+      Data: 0
+    - Name: isActive
+      Entry: 3
+      Data: 0
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 21|Data, Assembly-CSharp
+    - Name: valueNumber
+      Entry: 3
+      Data: 0
+    - Name: isActive
+      Entry: 3
+      Data: 0
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 22|Data, Assembly-CSharp
+    - Name: valueNumber
+      Entry: 3
+      Data: 0
+    - Name: isActive
+      Entry: 3
+      Data: 0
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 23|Data, Assembly-CSharp
+    - Name: valueNumber
+      Entry: 3
+      Data: 28
+    - Name: isActive
+      Entry: 3
+      Data: 0
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 24|Data, Assembly-CSharp
+    - Name: valueNumber
+      Entry: 3
+      Data: 27
+    - Name: isActive
+      Entry: 3
+      Data: 0
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 25|Data, Assembly-CSharp
+    - Name: valueNumber
+      Entry: 3
+      Data: 9
+    - Name: isActive
+      Entry: 3
+      Data: 0
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 26|Data, Assembly-CSharp
+    - Name: valueNumber
+      Entry: 3
+      Data: 0
+    - Name: isActive
+      Entry: 3
+      Data: 0
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 27|Data, Assembly-CSharp
+    - Name: valueNumber
+      Entry: 3
+      Data: 0
+    - Name: isActive
+      Entry: 3
+      Data: 0
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 28|Data, Assembly-CSharp
+    - Name: valueNumber
+      Entry: 3
+      Data: 0
+    - Name: isActive
+      Entry: 3
+      Data: 0
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 29|Data, Assembly-CSharp
+    - Name: valueNumber
+      Entry: 3
+      Data: 3
+    - Name: isActive
+      Entry: 3
+      Data: 0
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 30|Data, Assembly-CSharp
+    - Name: valueNumber
+      Entry: 3
+      Data: 2
+    - Name: isActive
+      Entry: 3
+      Data: 0
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 31|Data, Assembly-CSharp
+    - Name: valueNumber
+      Entry: 3
+      Data: 8
+    - Name: isActive
+      Entry: 3
+      Data: 0
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 32|Data, Assembly-CSharp
+    - Name: valueNumber
+      Entry: 3
+      Data: 7
+    - Name: isActive
+      Entry: 3
+      Data: 0
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 33|Data, Assembly-CSharp
+    - Name: valueNumber
+      Entry: 3
+      Data: 6
+    - Name: isActive
+      Entry: 3
+      Data: 0
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 34|Data, Assembly-CSharp
+    - Name: valueNumber
+      Entry: 3
+      Data: 5
+    - Name: isActive
+      Entry: 3
+      Data: 0
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 35|Data, Assembly-CSharp
+    - Name: valueNumber
+      Entry: 3
+      Data: 4
+    - Name: isActive
+      Entry: 3
+      Data: 0
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 7
+      Data: 36|Data, Assembly-CSharp
+    - Name: valueNumber
+      Entry: 3
+      Data: 1
+    - Name: isActive
+      Entry: 3
+      Data: 0
+    - Name: 
+      Entry: 8
+      Data: 
+    - Name: 
+      Entry: 13
+      Data: 
+    - Name: 
+      Entry: 8
+      Data: 
+  id: 50
+  row: 6
+  col: 6
+  numMove: 0
+  listSpecialBlock: 
+  lsDataRandomRowCols: []
+  block_Normal: {fileID: 8341392362112299818, guid: 3c64d53ed9c8a684ba2baf766bcf6613, type: 3}
+  listBlock:
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  textAsset: {fileID: 0}
+--- !u!4 &132923762
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 132923760}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &575403347
 GameObject:
   m_ObjectHideFlags: 0
@@ -183,7 +722,7 @@ Camera:
   near clip plane: 0.3
   far clip plane: 1000
   field of view: 60
-  orthographic: 0
+  orthographic: 1
   orthographic size: 5
   m_Depth: 0
   m_CullingMask:
@@ -308,8 +847,7 @@ RectTransform:
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 0, y: 0, z: 0}
   m_ConstrainProportionsScale: 0
-  m_Children:
-  - {fileID: 909944752}
+  m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
@@ -317,7 +855,7 @@ RectTransform:
   m_AnchoredPosition: {x: 0, y: 0}
   m_SizeDelta: {x: 0, y: 0}
   m_Pivot: {x: 0, y: 0}
---- !u!1 &909944751
+--- !u!1 &1135973054
 GameObject:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -325,89 +863,94 @@ GameObject:
   m_PrefabAsset: {fileID: 0}
   serializedVersion: 6
   m_Component:
-  - component: {fileID: 909944752}
-  - component: {fileID: 909944754}
-  - component: {fileID: 909944753}
+  - component: {fileID: 1135973056}
+  - component: {fileID: 1135973055}
   m_Layer: 0
-  m_Name: SkeletonGraphic (Combos)
+  m_Name: GameObject (1)
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
   m_IsActive: 1
---- !u!224 &909944752
-RectTransform:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 909944751}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: -1579.6302}
-  m_LocalScale: {x: 1, y: 1, z: 1}
-  m_ConstrainProportionsScale: 0
-  m_Children: []
-  m_Father: {fileID: 854270829}
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0.5, y: 0.5}
-  m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0, y: 0}
-  m_SizeDelta: {x: 618, y: 139}
-  m_Pivot: {x: 0.5, y: 0.5}
---- !u!114 &909944753
+--- !u!114 &1135973055
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 909944751}
+  m_GameObject: {fileID: 1135973054}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: d85b887af7e6c3f45a2e2d2920d641bc, type: 3}
+  m_Script: {fileID: 11500000, guid: 15ab7bbed05647644856d6fd47db74f2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  m_Material: {fileID: 2100000, guid: b66cf7a186d13054989b33a5c90044e4, type: 2}
-  m_Color: {r: 1, g: 1, b: 1, a: 1}
-  m_RaycastTarget: 1
-  m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
-  m_Maskable: 1
-  m_OnCullStateChanged:
-    m_PersistentCalls:
-      m_Calls: []
-  skeletonDataAsset: {fileID: 11400000, guid: 344c7c3bf4ce303498daa8f653c24240, type: 2}
-  initialSkinName: default
-  initialFlipX: 0
-  initialFlipY: 0
-  startingAnimation: AMAZING
-  startingLoop: 1
-  timeScale: 1
-  freeze: 0
-  updateWhenInvisible: 3
-  unscaledTime: 0
-  allowMultipleCanvasRenderers: 0
-  canvasRenderers: []
-  separatorSlotNames: []
-  enableSeparatorSlots: 0
-  separatorParts: []
-  updateSeparatorPartLocation: 1
-  meshGenerator:
-    settings:
-      useClipping: 1
-      zSpacing: 0
-      pmaVertexColors: 1
-      tintBlack: 0
-      canvasGroupTintBlack: 0
-      calculateTangents: 0
-      addNormals: 0
-      immutableTriangles: 0
---- !u!222 &909944754
-CanvasRenderer:
+  lsTextData:
+  - {fileID: 4900000, guid: b3e3ec4d9974fb743b7ae9b4a4f22581, type: 3}
+  - {fileID: 4900000, guid: aa0610066c0ff9746ad763a4f8e7a760, type: 3}
+  - {fileID: 4900000, guid: 9f89aab97eb08bf47aa17bf5b649abda, type: 3}
+  - {fileID: 4900000, guid: c44f9b267f6a0ab4bac36c35668f54b8, type: 3}
+  - {fileID: 4900000, guid: feb27289d8f688b47996d0cad3fc01c7, type: 3}
+  - {fileID: 4900000, guid: cd341d2c0a466ec4db1926639849139f, type: 3}
+  - {fileID: 4900000, guid: 065502845a89aac4083b7ab566d8e450, type: 3}
+  - {fileID: 4900000, guid: 17f7121a888fe7e45879dd958fe3807f, type: 3}
+  - {fileID: 4900000, guid: e304c8f641ab2a24da162568efbc9843, type: 3}
+  - {fileID: 4900000, guid: 882cc1dece624554688af3bc67de0de6, type: 3}
+  - {fileID: 4900000, guid: 93cb08a06b7c5254ba19081bf559721b, type: 3}
+  - {fileID: 4900000, guid: f53a68751382d4349a0a9f254ef5e0bf, type: 3}
+  - {fileID: 4900000, guid: 085a49f2ed205114e84dd0b892cfeff8, type: 3}
+  - {fileID: 4900000, guid: 18c2370cb560603479db5dc463ab009f, type: 3}
+  - {fileID: 4900000, guid: 968f40474b377a943867d7a0a89d2769, type: 3}
+  - {fileID: 4900000, guid: 40722c0937b080e4aa865d824b36d553, type: 3}
+  - {fileID: 4900000, guid: d735af6d047dc29469364d26e79d4c0f, type: 3}
+  - {fileID: 4900000, guid: 8bcd108ce73939149927c0aa65479b99, type: 3}
+  - {fileID: 4900000, guid: e51f8b0ee30fb4e43b75ece6b9b0305f, type: 3}
+  - {fileID: 4900000, guid: 4e1041d934fe1984398dd033a54a68df, type: 3}
+  - {fileID: 4900000, guid: 572fd9acb5a94d74aa5eb8cd57872e99, type: 3}
+  - {fileID: 4900000, guid: c0433bef1a28d5446b8d0a473a602c49, type: 3}
+  - {fileID: 4900000, guid: 06ed4093efb112b4a8298dd242747a76, type: 3}
+  - {fileID: 4900000, guid: b6ab89eee5915d547bee5664d2272ea7, type: 3}
+  - {fileID: 4900000, guid: a11cc10cf1847d043829f3872094c030, type: 3}
+  - {fileID: 4900000, guid: d1880ebcdf0869040aef68a8e5c06a2c, type: 3}
+  - {fileID: 4900000, guid: 08d28f0bab219334a8d72480dced75e4, type: 3}
+  - {fileID: 4900000, guid: da203281718691d4db7d29cf18978cd7, type: 3}
+  - {fileID: 4900000, guid: bf1342b5872cea149b8d4654d7cd50f5, type: 3}
+  - {fileID: 4900000, guid: a40797e58cb40ee4a8a73d6af8377519, type: 3}
+  - {fileID: 4900000, guid: 48d065473b7c2814ca896bec59efc517, type: 3}
+  - {fileID: 4900000, guid: df1ab01973d033b4fa970b1bd160083d, type: 3}
+  - {fileID: 4900000, guid: e5ec4b2cbdc1b7d47a5f1bc614c5173e, type: 3}
+  - {fileID: 4900000, guid: c92b32848f84a664b90ec4a6024769a1, type: 3}
+  - {fileID: 4900000, guid: d0f9c4fc63c7de344b17d632ceef5cff, type: 3}
+  - {fileID: 4900000, guid: 8542d35f835a41044bffd18e5274cd01, type: 3}
+  - {fileID: 4900000, guid: 9242b90bb5fe71642b70e5b31b6acbf5, type: 3}
+  - {fileID: 4900000, guid: a77c54639887c2040b1dc394956b0beb, type: 3}
+  - {fileID: 4900000, guid: 67322030cfef74b46a0e8ec271d5a6a6, type: 3}
+  - {fileID: 4900000, guid: 8d4c2f904d77f3d4fae5280c8e3f27c1, type: 3}
+  - {fileID: 4900000, guid: 0d284cecdf814f6468066136db5f66c1, type: 3}
+  - {fileID: 4900000, guid: a553c68e5bfbfcb4bbfb198c255e4699, type: 3}
+  - {fileID: 4900000, guid: e47e453d66098584e9844ff2e7f45547, type: 3}
+  - {fileID: 4900000, guid: 844c639f4b20a5f4fbfdd959dfd73c29, type: 3}
+  - {fileID: 4900000, guid: bcfaec8d473a4e446801090e815c5fb4, type: 3}
+  - {fileID: 4900000, guid: 1bafdae321dba8e4c9308290d8ada482, type: 3}
+  - {fileID: 4900000, guid: 72ed9e85757404c45b4f37deb5c1dd4b, type: 3}
+  - {fileID: 4900000, guid: d123e3e71a03d6045bd67ad066b96a73, type: 3}
+  - {fileID: 4900000, guid: ba00d5a392be44b4880f532aed289324, type: 3}
+  - {fileID: 4900000, guid: 12ce9a915a9e3bd429983938b2f44053, type: 3}
+  levelData: {fileID: 1680997778220003420, guid: 47f443ab098e9c24cbb4ff86d3c2cb76, type: 3}
+--- !u!4 &1135973056
+Transform:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 909944751}
-  m_CullTransparentMesh: 1
+  m_GameObject: {fileID: 1135973054}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1344423168
 GameObject:
   m_ObjectHideFlags: 0
@@ -483,3 +1026,5 @@ SceneRoots:
   - {fileID: 575403350}
   - {fileID: 854270829}
   - {fileID: 1344423171}
+  - {fileID: 132923762}
+  - {fileID: 1135973056}
