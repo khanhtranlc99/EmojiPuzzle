@@ -14,9 +14,9 @@ public class ToolSpawnLevel : MonoBehaviour
         for(int i = 0;  i < lsTextData.Count; i ++)
         {
             var temp = Instantiate(levelData);
-            temp.name = "Level_" + (i +1);
+            temp.name = "Level_" + 14;
             temp.data = lsTextData[i].text;
-            temp.idEmoji = i;
+            temp.idEmoji = 13;
             temp.SetUp();
         }
 

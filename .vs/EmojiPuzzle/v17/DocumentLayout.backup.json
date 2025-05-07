@@ -3,36 +3,64 @@
   "WorkspaceRootPath": "D:\\ProjectUniy\\EmojiPuzzle\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B2FD6811-F3F5-9F18-4087-C478E962A7E0}|Assembly-CSharp.csproj|d:\\projectuniy\\emojipuzzle\\assets\\resources\\levels\\level_5.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "AbsoluteMoniker": "D:0:0:{B2FD6811-F3F5-9F18-4087-C478E962A7E0}|Assembly-CSharp.csproj|d:\\projectuniy\\emojipuzzle\\assets\\emojipuzzle\\script\\editlevel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2FD6811-F3F5-9F18-4087-C478E962A7E0}|Assembly-CSharp.csproj|solutionrelative:assets\\emojipuzzle\\script\\editlevel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2FD6811-F3F5-9F18-4087-C478E962A7E0}|Assembly-CSharp.csproj|D:\\ProjectUniy\\EmojiPuzzle\\assets\\resources\\levels\\level_5.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{B2FD6811-F3F5-9F18-4087-C478E962A7E0}|Assembly-CSharp.csproj|solutionrelative:assets\\resources\\levels\\level_5.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B2FD6811-F3F5-9F18-4087-C478E962A7E0}|Assembly-CSharp.csproj|D:\\ProjectUniy\\EmojiPuzzle\\assets\\com.unity.uiextensions\\runtime\\scripts\\bomscript\\leveldata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B2FD6811-F3F5-9F18-4087-C478E962A7E0}|Assembly-CSharp.csproj|solutionrelative:assets\\com.unity.uiextensions\\runtime\\scripts\\bomscript\\leveldata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B2FD6811-F3F5-9F18-4087-C478E962A7E0}|Assembly-CSharp.csproj|D:\\ProjectUniy\\EmojiPuzzle\\assets\\emojipuzzle\\script\\toolspawnlevel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2FD6811-F3F5-9F18-4087-C478E962A7E0}|Assembly-CSharp.csproj|solutionrelative:assets\\emojipuzzle\\script\\toolspawnlevel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B2FD6811-F3F5-9F18-4087-C478E962A7E0}|Assembly-CSharp.csproj|D:\\ProjectUniy\\EmojiPuzzle\\assets\\emojipuzzle\\script\\emojibase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B2FD6811-F3F5-9F18-4087-C478E962A7E0}|Assembly-CSharp.csproj|solutionrelative:assets\\emojipuzzle\\script\\emojibase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B2FD6811-F3F5-9F18-4087-C478E962A7E0}|Assembly-CSharp.csproj|D:\\ProjectUniy\\EmojiPuzzle\\assets\\base\\00_basecode\\scripts\\controllers\\gamecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2FD6811-F3F5-9F18-4087-C478E962A7E0}|Assembly-CSharp.csproj|solutionrelative:assets\\base\\00_basecode\\scripts\\controllers\\gamecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B2FD6811-F3F5-9F18-4087-C478E962A7E0}|Assembly-CSharp.csproj|d:\\projectuniy\\emojipuzzle\\assets\\resources\\levels\\level_3.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{B2FD6811-F3F5-9F18-4087-C478E962A7E0}|Assembly-CSharp.csproj|solutionrelative:assets\\resources\\levels\\level_3.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+      "AbsoluteMoniker": "D:0:0:{B2FD6811-F3F5-9F18-4087-C478E962A7E0}|Assembly-CSharp.csproj|D:\\ProjectUniy\\EmojiPuzzle\\assets\\base\\00_basecode\\scripts\\controllers\\gameplaycontroller\\gamescene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2FD6811-F3F5-9F18-4087-C478E962A7E0}|Assembly-CSharp.csproj|solutionrelative:assets\\base\\00_basecode\\scripts\\controllers\\gameplaycontroller\\gamescene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B2FD6811-F3F5-9F18-4087-C478E962A7E0}|Assembly-CSharp.csproj|D:\\ProjectUniy\\EmojiPuzzle\\assets\\emojipuzzle\\script\\emojinormal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B2FD6811-F3F5-9F18-4087-C478E962A7E0}|Assembly-CSharp.csproj|solutionrelative:assets\\emojipuzzle\\script\\emojinormal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B2FD6811-F3F5-9F18-4087-C478E962A7E0}|Assembly-CSharp.csproj|D:\\ProjectUniy\\EmojiPuzzle\\assets\\base\\00_basecode\\scripts\\controllers\\gameplaycontroller\\gameplaycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2FD6811-F3F5-9F18-4087-C478E962A7E0}|Assembly-CSharp.csproj|solutionrelative:assets\\base\\00_basecode\\scripts\\controllers\\gameplaycontroller\\gameplaycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B2FD6811-F3F5-9F18-4087-C478E962A7E0}|Assembly-CSharp.csproj|d:\\projectuniy\\emojipuzzle\\assets\\resources\\levels\\level_31.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{B2FD6811-F3F5-9F18-4087-C478E962A7E0}|Assembly-CSharp.csproj|solutionrelative:assets\\resources\\levels\\level_31.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+      "AbsoluteMoniker": "D:0:0:{B2FD6811-F3F5-9F18-4087-C478E962A7E0}|Assembly-CSharp.csproj|D:\\ProjectUniy\\EmojiPuzzle\\assets\\base\\00_basecode\\scripts\\ui\\loading\\winbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2FD6811-F3F5-9F18-4087-C478E962A7E0}|Assembly-CSharp.csproj|solutionrelative:assets\\base\\00_basecode\\scripts\\ui\\loading\\winbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2FD6811-F3F5-9F18-4087-C478E962A7E0}|Assembly-CSharp.csproj|D:\\ProjectUniy\\EmojiPuzzle\\assets\\base\\00_basecode\\scripts\\controllers\\boxcontroller\\basebox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2FD6811-F3F5-9F18-4087-C478E962A7E0}|Assembly-CSharp.csproj|solutionrelative:assets\\base\\00_basecode\\scripts\\controllers\\boxcontroller\\basebox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B2FD6811-F3F5-9F18-4087-C478E962A7E0}|Assembly-CSharp.csproj|D:\\ProjectUniy\\EmojiPuzzle\\assets\\emojipuzzle\\script\\emojicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B2FD6811-F3F5-9F18-4087-C478E962A7E0}|Assembly-CSharp.csproj|solutionrelative:assets\\emojipuzzle\\script\\emojicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{B2FD6811-F3F5-9F18-4087-C478E962A7E0}|Assembly-CSharp.csproj|D:\\ProjectUniy\\EmojiPuzzle\\assets\\com.unity.uiextensions\\runtime\\scripts\\bomscript\\leveldata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2FD6811-F3F5-9F18-4087-C478E962A7E0}|Assembly-CSharp.csproj|solutionrelative:assets\\com.unity.uiextensions\\runtime\\scripts\\bomscript\\leveldata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2FD6811-F3F5-9F18-4087-C478E962A7E0}|Assembly-CSharp.csproj|D:\\ProjectUniy\\EmojiPuzzle\\assets\\base\\00_basecode\\scripts\\utility\\stringhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2FD6811-F3F5-9F18-4087-C478E962A7E0}|Assembly-CSharp.csproj|solutionrelative:assets\\base\\00_basecode\\scripts\\utility\\stringhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{B2FD6811-F3F5-9F18-4087-C478E962A7E0}|Assembly-CSharp.csproj|D:\\ProjectUniy\\EmojiPuzzle\\assets\\base\\00_basecode\\scripts\\controllers\\gameplaycontroller\\playercontain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B2FD6811-F3F5-9F18-4087-C478E962A7E0}|Assembly-CSharp.csproj|solutionrelative:assets\\base\\00_basecode\\scripts\\controllers\\gameplaycontroller\\playercontain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2FD6811-F3F5-9F18-4087-C478E962A7E0}|Assembly-CSharp.csproj|D:\\ProjectUniy\\EmojiPuzzle\\assets\\emojipuzzle\\script\\emojibase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2FD6811-F3F5-9F18-4087-C478E962A7E0}|Assembly-CSharp.csproj|solutionrelative:assets\\emojipuzzle\\script\\emojibase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2FD6811-F3F5-9F18-4087-C478E962A7E0}|Assembly-CSharp.csproj|D:\\ProjectUniy\\EmojiPuzzle\\assets\\emojipuzzle\\script\\emojinormal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B2FD6811-F3F5-9F18-4087-C478E962A7E0}|Assembly-CSharp.csproj|solutionrelative:assets\\emojipuzzle\\script\\emojinormal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2FD6811-F3F5-9F18-4087-C478E962A7E0}|Assembly-CSharp.csproj|D:\\ProjectUniy\\EmojiPuzzle\\assets\\resources\\levels\\level_31.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{B2FD6811-F3F5-9F18-4087-C478E962A7E0}|Assembly-CSharp.csproj|solutionrelative:assets\\resources\\levels\\level_31.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B2FD6811-F3F5-9F18-4087-C478E962A7E0}|Assembly-CSharp.csproj|D:\\ProjectUniy\\EmojiPuzzle\\assets\\base\\00_basecode\\scripts\\controllers\\gameplaycontroller\\camerascale.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -41,10 +69,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{B2FD6811-F3F5-9F18-4087-C478E962A7E0}|Assembly-CSharp.csproj|D:\\ProjectUniy\\EmojiPuzzle\\assets\\resources\\levels\\level_2.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{B2FD6811-F3F5-9F18-4087-C478E962A7E0}|Assembly-CSharp.csproj|solutionrelative:assets\\resources\\levels\\level_2.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B2FD6811-F3F5-9F18-4087-C478E962A7E0}|Assembly-CSharp.csproj|D:\\ProjectUniy\\EmojiPuzzle\\assets\\emojipuzzle\\script\\editlevel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B2FD6811-F3F5-9F18-4087-C478E962A7E0}|Assembly-CSharp.csproj|solutionrelative:assets\\emojipuzzle\\script\\editlevel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B2FD6811-F3F5-9F18-4087-C478E962A7E0}|Assembly-CSharp.csproj|D:\\ProjectUniy\\EmojiPuzzle\\assets\\resources\\levels\\level_1.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
@@ -57,6 +81,10 @@
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\ProjectUniy\\EmojiPuzzle\\Assets\\EmojiPuzzle\\EmojiController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\EmojiPuzzle\\EmojiController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2FD6811-F3F5-9F18-4087-C478E962A7E0}|Assembly-CSharp.csproj|D:\\ProjectUniy\\EmojiPuzzle\\assets\\resources\\levels\\level_3.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{B2FD6811-F3F5-9F18-4087-C478E962A7E0}|Assembly-CSharp.csproj|solutionrelative:assets\\resources\\levels\\level_3.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
     }
   ],
   "DocumentGroupContainers": [
@@ -66,11 +94,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 10,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 18,
               "Title": "Test.cs",
               "DocumentMoniker": "D:\\ProjectUniy\\EmojiPuzzle\\Assets\\EmojiPuzzle\\Test.cs",
               "RelativeDocumentMoniker": "Assets\\EmojiPuzzle\\Test.cs",
@@ -83,58 +111,103 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
+              "Title": "GameController.cs",
+              "DocumentMoniker": "D:\\ProjectUniy\\EmojiPuzzle\\Assets\\Base\\00_BaseCode\\Scripts\\Controllers\\GameController.cs",
+              "RelativeDocumentMoniker": "Assets\\Base\\00_BaseCode\\Scripts\\Controllers\\GameController.cs",
+              "ToolTip": "D:\\ProjectUniy\\EmojiPuzzle\\Assets\\Base\\00_BaseCode\\Scripts\\Controllers\\GameController.cs",
+              "RelativeToolTip": "Assets\\Base\\00_BaseCode\\Scripts\\Controllers\\GameController.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwBUAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-07T13:47:34.175Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GameScene.cs",
+              "DocumentMoniker": "D:\\ProjectUniy\\EmojiPuzzle\\Assets\\Base\\00_BaseCode\\Scripts\\Controllers\\GamePlayController\\GameScene.cs",
+              "RelativeDocumentMoniker": "Assets\\Base\\00_BaseCode\\Scripts\\Controllers\\GamePlayController\\GameScene.cs",
+              "ToolTip": "D:\\ProjectUniy\\EmojiPuzzle\\Assets\\Base\\00_BaseCode\\Scripts\\Controllers\\GamePlayController\\GameScene.cs",
+              "RelativeToolTip": "Assets\\Base\\00_BaseCode\\Scripts\\Controllers\\GamePlayController\\GameScene.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T17:22:17.862Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GamePlayController.cs",
+              "DocumentMoniker": "D:\\ProjectUniy\\EmojiPuzzle\\Assets\\Base\\00_BaseCode\\Scripts\\Controllers\\GamePlayController\\GamePlayController.cs",
+              "RelativeDocumentMoniker": "Assets\\Base\\00_BaseCode\\Scripts\\Controllers\\GamePlayController\\GamePlayController.cs",
+              "ToolTip": "D:\\ProjectUniy\\EmojiPuzzle\\Assets\\Base\\00_BaseCode\\Scripts\\Controllers\\GamePlayController\\GamePlayController.cs",
+              "RelativeToolTip": "Assets\\Base\\00_BaseCode\\Scripts\\Controllers\\GamePlayController\\GamePlayController.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwCcAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T17:22:03.525Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BaseBox.cs",
+              "DocumentMoniker": "D:\\ProjectUniy\\EmojiPuzzle\\Assets\\Base\\00_BaseCode\\Scripts\\Controllers\\BoxController\\BaseBox.cs",
+              "RelativeDocumentMoniker": "Assets\\Base\\00_BaseCode\\Scripts\\Controllers\\BoxController\\BaseBox.cs",
+              "ToolTip": "D:\\ProjectUniy\\EmojiPuzzle\\Assets\\Base\\00_BaseCode\\Scripts\\Controllers\\BoxController\\BaseBox.cs",
+              "RelativeToolTip": "Assets\\Base\\00_BaseCode\\Scripts\\Controllers\\BoxController\\BaseBox.cs",
+              "ViewState": "AgIAAEIAAAAAAAAAAIAxwFYAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T17:19:01.088Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Winbox.cs",
+              "DocumentMoniker": "D:\\ProjectUniy\\EmojiPuzzle\\Assets\\Base\\00_BaseCode\\Scripts\\UI\\Loading\\Winbox.cs",
+              "RelativeDocumentMoniker": "Assets\\Base\\00_BaseCode\\Scripts\\UI\\Loading\\Winbox.cs",
+              "ToolTip": "D:\\ProjectUniy\\EmojiPuzzle\\Assets\\Base\\00_BaseCode\\Scripts\\UI\\Loading\\Winbox.cs",
+              "RelativeToolTip": "Assets\\Base\\00_BaseCode\\Scripts\\UI\\Loading\\Winbox.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAswC4AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T17:13:22.349Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "StringHelper.cs",
+              "DocumentMoniker": "D:\\ProjectUniy\\EmojiPuzzle\\Assets\\Base\\00_BaseCode\\Scripts\\Utility\\StringHelper.cs",
+              "RelativeDocumentMoniker": "Assets\\Base\\00_BaseCode\\Scripts\\Utility\\StringHelper.cs",
+              "ToolTip": "D:\\ProjectUniy\\EmojiPuzzle\\Assets\\Base\\00_BaseCode\\Scripts\\Utility\\StringHelper.cs",
+              "RelativeToolTip": "Assets\\Base\\00_BaseCode\\Scripts\\Utility\\StringHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T17:05:05.393Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ToolSpawnLevel.cs",
+              "DocumentMoniker": "D:\\ProjectUniy\\EmojiPuzzle\\Assets\\EmojiPuzzle\\Script\\ToolSpawnLevel.cs",
+              "RelativeDocumentMoniker": "Assets\\EmojiPuzzle\\Script\\ToolSpawnLevel.cs",
+              "ToolTip": "D:\\ProjectUniy\\EmojiPuzzle\\Assets\\EmojiPuzzle\\Script\\ToolSpawnLevel.cs",
+              "RelativeToolTip": "Assets\\EmojiPuzzle\\Script\\ToolSpawnLevel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-06T14:52:45.862Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Level_5.txt",
               "DocumentMoniker": "D:\\ProjectUniy\\EmojiPuzzle\\Assets\\Resources\\Levels\\Level_5.txt",
               "RelativeDocumentMoniker": "Assets\\Resources\\Levels\\Level_5.txt",
               "ToolTip": "D:\\ProjectUniy\\EmojiPuzzle\\Assets\\Resources\\Levels\\Level_5.txt",
               "RelativeToolTip": "Assets\\Resources\\Levels\\Level_5.txt",
-              "ViewState": "AgIAACQAAAAAAAAAAAAgwE0AAAABAAAAAAAAAA==",
+              "ViewState": "AgIAACQAAAAAAAAAAAAcwC8AAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2025-05-06T14:35:36.192Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-06T14:35:36.192Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Level_3.txt",
-              "DocumentMoniker": "D:\\ProjectUniy\\EmojiPuzzle\\Assets\\Resources\\Levels\\Level_3.txt",
-              "RelativeDocumentMoniker": "Assets\\Resources\\Levels\\Level_3.txt",
-              "ToolTip": "D:\\ProjectUniy\\EmojiPuzzle\\Assets\\Resources\\Levels\\Level_3.txt",
-              "RelativeToolTip": "Assets\\Resources\\Levels\\Level_3.txt",
-              "ViewState": "AgIAACQAAAAAAAAAAAAcwE0AAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2025-05-06T14:34:06.13Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Level_31.txt",
-              "DocumentMoniker": "D:\\ProjectUniy\\EmojiPuzzle\\Assets\\Resources\\Levels\\Level_31.txt",
-              "RelativeDocumentMoniker": "Assets\\Resources\\Levels\\Level_31.txt",
-              "ToolTip": "D:\\ProjectUniy\\EmojiPuzzle\\Assets\\Resources\\Levels\\Level_31.txt",
-              "RelativeToolTip": "Assets\\Resources\\Levels\\Level_31.txt",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2025-05-05T16:24:51.084Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "CameraScale.cs",
-              "DocumentMoniker": "D:\\ProjectUniy\\EmojiPuzzle\\Assets\\Base\\00_BaseCode\\Scripts\\Controllers\\GamePlayController\\CameraScale.cs",
-              "RelativeDocumentMoniker": "Assets\\Base\\00_BaseCode\\Scripts\\Controllers\\GamePlayController\\CameraScale.cs",
-              "ToolTip": "D:\\ProjectUniy\\EmojiPuzzle\\Assets\\Base\\00_BaseCode\\Scripts\\Controllers\\GamePlayController\\CameraScale.cs",
-              "RelativeToolTip": "Assets\\Base\\00_BaseCode\\Scripts\\Controllers\\GamePlayController\\CameraScale.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAsAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-05T09:22:14.759Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 16,
               "Title": "Level_2.txt",
               "DocumentMoniker": "D:\\ProjectUniy\\EmojiPuzzle\\Assets\\Resources\\Levels\\Level_2.txt",
               "RelativeDocumentMoniker": "Assets\\Resources\\Levels\\Level_2.txt",
@@ -146,31 +219,32 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 0,
               "Title": "EditLevel.cs",
               "DocumentMoniker": "D:\\ProjectUniy\\EmojiPuzzle\\Assets\\EmojiPuzzle\\Script\\EditLevel.cs",
               "RelativeDocumentMoniker": "Assets\\EmojiPuzzle\\Script\\EditLevel.cs",
               "ToolTip": "D:\\ProjectUniy\\EmojiPuzzle\\Assets\\EmojiPuzzle\\Script\\EditLevel.cs",
               "RelativeToolTip": "Assets\\EmojiPuzzle\\Script\\EditLevel.cs",
-              "ViewState": "AgIAADAAAAAAAAAAAAAowEIAAAAcAAAAAAAAAA==",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAwwEIAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-05T09:05:27.095Z"
+              "WhenOpened": "2025-05-05T09:05:27.095Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "EmojiController.cs",
               "DocumentMoniker": "D:\\ProjectUniy\\EmojiPuzzle\\Assets\\EmojiPuzzle\\Script\\EmojiController.cs",
               "RelativeDocumentMoniker": "Assets\\EmojiPuzzle\\Script\\EmojiController.cs",
               "ToolTip": "D:\\ProjectUniy\\EmojiPuzzle\\Assets\\EmojiPuzzle\\Script\\EmojiController.cs",
               "RelativeToolTip": "Assets\\EmojiPuzzle\\Script\\EmojiController.cs",
-              "ViewState": "AgIAAJ4AAAAAAAAAAAASwLQAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAAJ4AAAAAAAAAAAASwLUAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-05T07:41:18.145Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 12,
               "Title": "EmojiBase.cs",
               "DocumentMoniker": "D:\\ProjectUniy\\EmojiPuzzle\\Assets\\EmojiPuzzle\\Script\\EmojiBase.cs",
               "RelativeDocumentMoniker": "Assets\\EmojiPuzzle\\Script\\EmojiBase.cs",
@@ -178,12 +252,11 @@
               "RelativeToolTip": "Assets\\EmojiPuzzle\\Script\\EmojiBase.cs",
               "ViewState": "AgIAAA8AAAAAAAAAAAArwCwAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-05T07:05:21.333Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-05T07:05:21.333Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 13,
               "Title": "EmojiNormal.cs",
               "DocumentMoniker": "D:\\ProjectUniy\\EmojiPuzzle\\Assets\\EmojiPuzzle\\Script\\EmojiNormal.cs",
               "RelativeDocumentMoniker": "Assets\\EmojiPuzzle\\Script\\EmojiNormal.cs",
@@ -191,12 +264,11 @@
               "RelativeToolTip": "Assets\\EmojiPuzzle\\Script\\EmojiNormal.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-05T07:05:18.982Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-05T07:05:18.982Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 17,
               "Title": "Level_1.txt",
               "DocumentMoniker": "D:\\ProjectUniy\\EmojiPuzzle\\Assets\\Resources\\Levels\\Level_1.txt",
               "RelativeDocumentMoniker": "Assets\\Resources\\Levels\\Level_1.txt",
@@ -208,32 +280,67 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 9,
               "Title": "LevelData.cs",
               "DocumentMoniker": "D:\\ProjectUniy\\EmojiPuzzle\\Assets\\com.unity.uiextensions\\Runtime\\Scripts\\BomScript\\LevelData.cs",
               "RelativeDocumentMoniker": "Assets\\com.unity.uiextensions\\Runtime\\Scripts\\BomScript\\LevelData.cs",
               "ToolTip": "D:\\ProjectUniy\\EmojiPuzzle\\Assets\\com.unity.uiextensions\\Runtime\\Scripts\\BomScript\\LevelData.cs",
               "RelativeToolTip": "Assets\\com.unity.uiextensions\\Runtime\\Scripts\\BomScript\\LevelData.cs",
-              "ViewState": "AgIAABgAAAAAAAAAAADgvzEAAAAdAAAAAAAAAA==",
+              "ViewState": "AgIAADsAAAAAAAAAAAApwCcAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-05T06:53:56.593Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-05T06:53:56.593Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 11,
               "Title": "PlayerContain.cs",
               "DocumentMoniker": "D:\\ProjectUniy\\EmojiPuzzle\\Assets\\Base\\00_BaseCode\\Scripts\\Controllers\\GamePlayController\\PlayerContain.cs",
               "RelativeDocumentMoniker": "Assets\\Base\\00_BaseCode\\Scripts\\Controllers\\GamePlayController\\PlayerContain.cs",
               "ToolTip": "D:\\ProjectUniy\\EmojiPuzzle\\Assets\\Base\\00_BaseCode\\Scripts\\Controllers\\GamePlayController\\PlayerContain.cs",
               "RelativeToolTip": "Assets\\Base\\00_BaseCode\\Scripts\\Controllers\\GamePlayController\\PlayerContain.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA+AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-05T03:59:15.855Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 15,
+              "Title": "CameraScale.cs",
+              "DocumentMoniker": "D:\\ProjectUniy\\EmojiPuzzle\\Assets\\Base\\00_BaseCode\\Scripts\\Controllers\\GamePlayController\\CameraScale.cs",
+              "RelativeDocumentMoniker": "Assets\\Base\\00_BaseCode\\Scripts\\Controllers\\GamePlayController\\CameraScale.cs",
+              "ToolTip": "D:\\ProjectUniy\\EmojiPuzzle\\Assets\\Base\\00_BaseCode\\Scripts\\Controllers\\GamePlayController\\CameraScale.cs",
+              "RelativeToolTip": "Assets\\Base\\00_BaseCode\\Scripts\\Controllers\\GamePlayController\\CameraScale.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T09:22:14.759Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Level_31.txt",
+              "DocumentMoniker": "D:\\ProjectUniy\\EmojiPuzzle\\Assets\\Resources\\Levels\\Level_31.txt",
+              "RelativeDocumentMoniker": "Assets\\Resources\\Levels\\Level_31.txt",
+              "ToolTip": "D:\\ProjectUniy\\EmojiPuzzle\\Assets\\Resources\\Levels\\Level_31.txt",
+              "RelativeToolTip": "Assets\\Resources\\Levels\\Level_31.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-05-05T16:24:51.084Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Level_3.txt",
+              "DocumentMoniker": "D:\\ProjectUniy\\EmojiPuzzle\\Assets\\Resources\\Levels\\Level_3.txt",
+              "RelativeDocumentMoniker": "Assets\\Resources\\Levels\\Level_3.txt",
+              "ToolTip": "D:\\ProjectUniy\\EmojiPuzzle\\Assets\\Resources\\Levels\\Level_3.txt",
+              "RelativeToolTip": "Assets\\Resources\\Levels\\Level_3.txt",
+              "ViewState": "AgIAACQAAAAAAAAAAAAcwE0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-05-06T14:34:06.13Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
               "Title": "EmojiController.cs",
               "DocumentMoniker": "D:\\ProjectUniy\\EmojiPuzzle\\Assets\\EmojiPuzzle\\EmojiController.cs",
               "RelativeDocumentMoniker": "Assets\\EmojiPuzzle\\EmojiController.cs",

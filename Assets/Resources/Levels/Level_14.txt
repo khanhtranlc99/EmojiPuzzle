@@ -4,59 +4,11 @@
   "dataBlock": [
     [
       {
-        "valueNumber": 0,
+        "valueNumber": 15,
         "isActive": 0
       },
       {
-        "valueNumber": 0,
-        "isActive": 0
-      },
-      {
-        "valueNumber": 0,
-        "isActive": 0
-      },
-      {
-        "valueNumber": 9,
-        "isActive": 0
-      },
-      {
-        "valueNumber": 10,
-        "isActive": 0
-      }
-    ],
-    [
-      {
-        "valueNumber": 0,
-        "isActive": 0
-      },
-      {
-        "valueNumber": 6,
-        "isActive": 0
-      },
-      {
-        "valueNumber": 7,
-        "isActive": 0
-      },
-      {
-        "valueNumber": 8,
-        "isActive": 0
-      },
-      {
-        "valueNumber": 11,
-        "isActive": 0
-      }
-    ],
-    [
-      {
-        "valueNumber": 0,
-        "isActive": 0
-      },
-      {
-        "valueNumber": 5,
-        "isActive": 0
-      },
-      {
-        "valueNumber": 4,
+        "valueNumber": 14,
         "isActive": 0
       },
       {
@@ -64,13 +16,31 @@
         "isActive": 0
       },
       {
-        "valueNumber": 12,
+        "valueNumber": 0,
         "isActive": 0
       }
     ],
     [
       {
+        "valueNumber": 10,
+        "isActive": 0
+      },
+      {
+        "valueNumber": 11,
+        "isActive": 0
+      },
+      {
+        "valueNumber": 12,
+        "isActive": 0
+      },
+      {
         "valueNumber": 0,
+        "isActive": 0
+      }
+    ],
+    [
+      {
+        "valueNumber": 9,
         "isActive": 0
       },
       {
@@ -78,7 +48,35 @@
         "isActive": 0
       },
       {
-        "valueNumber": 3,
+        "valueNumber": 0,
+        "isActive": 0
+      },
+      {
+        "valueNumber": 0,
+        "isActive": 0
+      }
+    ],
+    [
+      {
+        "valueNumber": 8,
+        "isActive": 0
+      },
+      {
+        "valueNumber": 7,
+        "isActive": 0
+      },
+      {
+        "valueNumber": 6,
+        "isActive": 0
+      },
+      {
+        "valueNumber": 5,
+        "isActive": 0
+      }
+    ],
+    [
+      {
+        "valueNumber": 1,
         "isActive": 0
       },
       {
@@ -86,29 +84,11 @@
         "isActive": 0
       },
       {
-        "valueNumber": 0,
-        "isActive": 0
-      }
-    ],
-    [
-      {
-        "valueNumber": 0,
+        "valueNumber": 3,
         "isActive": 0
       },
       {
-        "valueNumber": 0,
-        "isActive": 0
-      },
-      {
-        "valueNumber": 0,
-        "isActive": 0
-      },
-      {
-        "valueNumber": 1,
-        "isActive": 0
-      },
-      {
-        "valueNumber": 0,
+        "valueNumber": 4,
         "isActive": 0
       }
     ]

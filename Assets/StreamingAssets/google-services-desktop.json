@@ -1,21 +1,21 @@
 {
   "project_info": {
-    "project_number": "256942730703",
-    "project_id": "boombvime",
-    "storage_bucket": "boombvime.appspot.com"
+    "project_number": "280352468316",
+    "project_id": "emoji-puzzle-6d273",
+    "storage_bucket": "emoji-puzzle-6d273.firebasestorage.app"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:256942730703:android:b4c30ae8f71c86312076ba",
+        "mobilesdk_app_id": "1:280352468316:android:3891864f48f37623a42599",
         "android_client_info": {
-          "package_name": "com.newmoon.boomvsslime"
+          "package_name": "com.PyraheartStudio.EmojiPuzzle"
         }
       },
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyDFEL2_ef5cWCYzFFNRnqpGOS9ifPh3ewk"
+          "current_key": "AIzaSyBtpKtkHvzjCHlUN3xIlUVzYxYOnxe3WGg"
         }
       ],
       "services": {
