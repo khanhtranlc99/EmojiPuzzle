@@ -1,20 +1,14 @@
 <dependencies>
   <packages>
-    <package>androidx.recyclerview:recyclerview:1.2.1</package>
+    <package>androidx.constraintlayout:constraintlayout:2.1.4</package>
     <package>com.android.installreferrer:installreferrer:2.1</package>
-    <package>com.applovin.mediation:bytedance-adapter:5.9.1.1.0</package>
-    <package>com.applovin.mediation:google-adapter:[23.2.0.0]</package>
-    <package>com.applovin.mediation:google-ad-manager-adapter:[23.2.0.0]</package>
-    <package>com.applovin.mediation:mintegral-adapter:16.7.81.0</package>
-    <package>com.applovin.mediation:unityads-adapter:4.12.1.0</package>
-    <package>com.applovin.mediation:vungle-adapter:7.4.0.0</package>
-    <package>com.applovin:applovin-sdk:12.5.0</package>
     <package>com.appsflyer:af-android-sdk:6.5.2</package>
     <package>com.appsflyer:unity-wrapper:6.5.2</package>
+    <package>com.google.android.gms:play-services-ads:23.0.0</package>
     <package>com.google.android.gms:play-services-base:18.4.0</package>
     <package>com.google.android.play:core-common:2.0.0</package>
     <package>com.google.android.play:review:2.0.0</package>
-    <package>com.google.android.ump:user-messaging-platform:2.+</package>
+    <package>com.google.android.ump:user-messaging-platform:2.2.0</package>
     <package>com.google.firebase:firebase-analytics:21.6.2</package>
     <package>com.google.firebase:firebase-analytics-unity:11.9.0</package>
     <package>com.google.firebase:firebase-app-unity:11.9.0</package>
@@ -42,7 +36,7 @@
   </files>
   <settings>
     <setting name="androidAbis" value="arm64-v8a,armeabi-v7a" />
-    <setting name="bundleId" value="com.newmoon.boomvsslime" />
+    <setting name="bundleId" value="com.PyraheartStudio.EmojiPuzzle" />
     <setting name="explodeAars" value="True" />
     <setting name="gradleBuildEnabled" value="True" />
     <setting name="gradlePropertiesTemplateEnabled" value="True" />

@@ -137,7 +137,7 @@ public enum GiftType
     Boom_Start = 12,
     Fire_Start = 13,
     Heart_Unlimit = 14,
-
+    HintBooster = 15
 
 
 

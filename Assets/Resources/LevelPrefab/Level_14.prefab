@@ -273,8 +273,8 @@ MonoBehaviour:
   firstPost: {x: 0, y: 0, z: 0}
   row: 1
   col: 0
-  OpenSfx: {fileID: 8300000, guid: b2061d940c225734d8a06bb8fb58f1d5, type: 3}
-  CloseSfx: {fileID: 8300000, guid: b2061d940c225734d8a06bb8fb58f1d5, type: 3}
+  OpenSfx: {fileID: 8300000, guid: a63f926792187b848a9e9a5e88c1c896, type: 3}
+  CloseSfx: {fileID: 8300000, guid: 9f9c0aaaa0f2da94a99772da46f19953, type: 3}
   lsEmoji:
   - id: 13
     obj: {fileID: 9144294395239967382}
@@ -1532,8 +1532,8 @@ MonoBehaviour:
   firstPost: {x: 0, y: 0, z: 0}
   row: 0
   col: 1
-  OpenSfx: {fileID: 8300000, guid: b2061d940c225734d8a06bb8fb58f1d5, type: 3}
-  CloseSfx: {fileID: 8300000, guid: b2061d940c225734d8a06bb8fb58f1d5, type: 3}
+  OpenSfx: {fileID: 8300000, guid: a63f926792187b848a9e9a5e88c1c896, type: 3}
+  CloseSfx: {fileID: 8300000, guid: 9f9c0aaaa0f2da94a99772da46f19953, type: 3}
   lsEmoji:
   - id: 13
     obj: {fileID: 6791322755026188521}
@@ -1636,8 +1636,8 @@ MonoBehaviour:
   firstPost: {x: 0, y: 0, z: 0}
   row: 0
   col: 2
-  OpenSfx: {fileID: 8300000, guid: b2061d940c225734d8a06bb8fb58f1d5, type: 3}
-  CloseSfx: {fileID: 8300000, guid: b2061d940c225734d8a06bb8fb58f1d5, type: 3}
+  OpenSfx: {fileID: 8300000, guid: a63f926792187b848a9e9a5e88c1c896, type: 3}
+  CloseSfx: {fileID: 8300000, guid: 9f9c0aaaa0f2da94a99772da46f19953, type: 3}
   lsEmoji:
   - id: 13
     obj: {fileID: 2341289978852018578}
@@ -1874,8 +1874,8 @@ MonoBehaviour:
   firstPost: {x: 0, y: 0, z: 0}
   row: 3
   col: 0
-  OpenSfx: {fileID: 8300000, guid: b2061d940c225734d8a06bb8fb58f1d5, type: 3}
-  CloseSfx: {fileID: 8300000, guid: b2061d940c225734d8a06bb8fb58f1d5, type: 3}
+  OpenSfx: {fileID: 8300000, guid: a63f926792187b848a9e9a5e88c1c896, type: 3}
+  CloseSfx: {fileID: 8300000, guid: 9f9c0aaaa0f2da94a99772da46f19953, type: 3}
   lsEmoji:
   - id: 13
     obj: {fileID: 4938188845549178291}
@@ -2125,8 +2125,8 @@ MonoBehaviour:
   firstPost: {x: 0, y: 0, z: 0}
   row: 1
   col: 1
-  OpenSfx: {fileID: 8300000, guid: b2061d940c225734d8a06bb8fb58f1d5, type: 3}
-  CloseSfx: {fileID: 8300000, guid: b2061d940c225734d8a06bb8fb58f1d5, type: 3}
+  OpenSfx: {fileID: 8300000, guid: a63f926792187b848a9e9a5e88c1c896, type: 3}
+  CloseSfx: {fileID: 8300000, guid: 9f9c0aaaa0f2da94a99772da46f19953, type: 3}
   lsEmoji:
   - id: 13
     obj: {fileID: 14081225936947802}
@@ -2376,8 +2376,8 @@ MonoBehaviour:
   firstPost: {x: 0, y: 0, z: 0}
   row: 3
   col: 1
-  OpenSfx: {fileID: 8300000, guid: b2061d940c225734d8a06bb8fb58f1d5, type: 3}
-  CloseSfx: {fileID: 8300000, guid: b2061d940c225734d8a06bb8fb58f1d5, type: 3}
+  OpenSfx: {fileID: 8300000, guid: a63f926792187b848a9e9a5e88c1c896, type: 3}
+  CloseSfx: {fileID: 8300000, guid: 9f9c0aaaa0f2da94a99772da46f19953, type: 3}
   lsEmoji:
   - id: 13
     obj: {fileID: 5198879172250105792}
@@ -2614,8 +2614,8 @@ MonoBehaviour:
   firstPost: {x: 0, y: 0, z: 0}
   row: 4
   col: 2
-  OpenSfx: {fileID: 8300000, guid: b2061d940c225734d8a06bb8fb58f1d5, type: 3}
-  CloseSfx: {fileID: 8300000, guid: b2061d940c225734d8a06bb8fb58f1d5, type: 3}
+  OpenSfx: {fileID: 8300000, guid: a63f926792187b848a9e9a5e88c1c896, type: 3}
+  CloseSfx: {fileID: 8300000, guid: 9f9c0aaaa0f2da94a99772da46f19953, type: 3}
   lsEmoji:
   - id: 13
     obj: {fileID: 2133419847030929065}
@@ -3227,6 +3227,8 @@ MonoBehaviour:
   parentEmoji: {fileID: 7883896079658292272}
   leftPost: {fileID: 1959027305622838576}
   rightPost: {fileID: 1115987004402818438}
+  openSfx: {fileID: 8300000, guid: a63f926792187b848a9e9a5e88c1c896, type: 3}
+  closeSfx: {fileID: 8300000, guid: 9f9c0aaaa0f2da94a99772da46f19953, type: 3}
 --- !u!1 &3185369665733387133
 GameObject:
   m_ObjectHideFlags: 0
@@ -3721,8 +3723,8 @@ MonoBehaviour:
   firstPost: {x: 0, y: 0, z: 0}
   row: 3
   col: 3
-  OpenSfx: {fileID: 8300000, guid: b2061d940c225734d8a06bb8fb58f1d5, type: 3}
-  CloseSfx: {fileID: 8300000, guid: b2061d940c225734d8a06bb8fb58f1d5, type: 3}
+  OpenSfx: {fileID: 8300000, guid: a63f926792187b848a9e9a5e88c1c896, type: 3}
+  CloseSfx: {fileID: 8300000, guid: 9f9c0aaaa0f2da94a99772da46f19953, type: 3}
   lsEmoji:
   - id: 13
     obj: {fileID: 8639929895201266247}
@@ -6011,8 +6013,8 @@ MonoBehaviour:
   firstPost: {x: 0, y: 0, z: 0}
   row: 3
   col: 2
-  OpenSfx: {fileID: 8300000, guid: b2061d940c225734d8a06bb8fb58f1d5, type: 3}
-  CloseSfx: {fileID: 8300000, guid: b2061d940c225734d8a06bb8fb58f1d5, type: 3}
+  OpenSfx: {fileID: 8300000, guid: a63f926792187b848a9e9a5e88c1c896, type: 3}
+  CloseSfx: {fileID: 8300000, guid: 9f9c0aaaa0f2da94a99772da46f19953, type: 3}
   lsEmoji:
   - id: 13
     obj: {fileID: 4510733706125402206}
@@ -6258,8 +6260,8 @@ MonoBehaviour:
   firstPost: {x: 0, y: 0, z: 0}
   row: 4
   col: 0
-  OpenSfx: {fileID: 8300000, guid: b2061d940c225734d8a06bb8fb58f1d5, type: 3}
-  CloseSfx: {fileID: 8300000, guid: b2061d940c225734d8a06bb8fb58f1d5, type: 3}
+  OpenSfx: {fileID: 8300000, guid: a63f926792187b848a9e9a5e88c1c896, type: 3}
+  CloseSfx: {fileID: 8300000, guid: 9f9c0aaaa0f2da94a99772da46f19953, type: 3}
   lsEmoji:
   - id: 13
     obj: {fileID: 714680793381307434}
@@ -6801,8 +6803,8 @@ MonoBehaviour:
   firstPost: {x: 0, y: 0, z: 0}
   row: 1
   col: 2
-  OpenSfx: {fileID: 8300000, guid: b2061d940c225734d8a06bb8fb58f1d5, type: 3}
-  CloseSfx: {fileID: 8300000, guid: b2061d940c225734d8a06bb8fb58f1d5, type: 3}
+  OpenSfx: {fileID: 8300000, guid: a63f926792187b848a9e9a5e88c1c896, type: 3}
+  CloseSfx: {fileID: 8300000, guid: 9f9c0aaaa0f2da94a99772da46f19953, type: 3}
   lsEmoji:
   - id: 13
     obj: {fileID: 174903090640153228}
@@ -8129,8 +8131,8 @@ MonoBehaviour:
   firstPost: {x: 0, y: 0, z: 0}
   row: 4
   col: 1
-  OpenSfx: {fileID: 8300000, guid: b2061d940c225734d8a06bb8fb58f1d5, type: 3}
-  CloseSfx: {fileID: 8300000, guid: b2061d940c225734d8a06bb8fb58f1d5, type: 3}
+  OpenSfx: {fileID: 8300000, guid: a63f926792187b848a9e9a5e88c1c896, type: 3}
+  CloseSfx: {fileID: 8300000, guid: 9f9c0aaaa0f2da94a99772da46f19953, type: 3}
   lsEmoji:
   - id: 13
     obj: {fileID: 3197452017350956350}
@@ -8367,8 +8369,8 @@ MonoBehaviour:
   firstPost: {x: 0, y: 0, z: 0}
   row: 4
   col: 3
-  OpenSfx: {fileID: 8300000, guid: b2061d940c225734d8a06bb8fb58f1d5, type: 3}
-  CloseSfx: {fileID: 8300000, guid: b2061d940c225734d8a06bb8fb58f1d5, type: 3}
+  OpenSfx: {fileID: 8300000, guid: a63f926792187b848a9e9a5e88c1c896, type: 3}
+  CloseSfx: {fileID: 8300000, guid: 9f9c0aaaa0f2da94a99772da46f19953, type: 3}
   lsEmoji:
   - id: 13
     obj: {fileID: 4315292493080583045}
@@ -9131,8 +9133,8 @@ MonoBehaviour:
   firstPost: {x: 0, y: 0, z: 0}
   row: 2
   col: 0
-  OpenSfx: {fileID: 8300000, guid: b2061d940c225734d8a06bb8fb58f1d5, type: 3}
-  CloseSfx: {fileID: 8300000, guid: b2061d940c225734d8a06bb8fb58f1d5, type: 3}
+  OpenSfx: {fileID: 8300000, guid: a63f926792187b848a9e9a5e88c1c896, type: 3}
+  CloseSfx: {fileID: 8300000, guid: 9f9c0aaaa0f2da94a99772da46f19953, type: 3}
   lsEmoji:
   - id: 13
     obj: {fileID: 8978169585948338811}
@@ -9480,8 +9482,8 @@ MonoBehaviour:
   firstPost: {x: 0, y: 0, z: 0}
   row: 0
   col: 0
-  OpenSfx: {fileID: 8300000, guid: b2061d940c225734d8a06bb8fb58f1d5, type: 3}
-  CloseSfx: {fileID: 8300000, guid: b2061d940c225734d8a06bb8fb58f1d5, type: 3}
+  OpenSfx: {fileID: 8300000, guid: a63f926792187b848a9e9a5e88c1c896, type: 3}
+  CloseSfx: {fileID: 8300000, guid: 9f9c0aaaa0f2da94a99772da46f19953, type: 3}
   lsEmoji:
   - id: 13
     obj: {fileID: 1651555442744042153}

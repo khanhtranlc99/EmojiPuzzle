@@ -7,6 +7,7 @@ public class PlayerContain : MonoBehaviour
     public LevelData levelData;
     public EmojiController emojiController;
     public CameraScale cameraScale;
+    public BoosterHint boosterHint;
  
     public void Init()
     {
@@ -15,6 +16,7 @@ public class PlayerContain : MonoBehaviour
         levelData.Init();
         emojiController.Init(levelData);
         cameraScale.Init(levelData.leftPost.position, levelData.rightPost.position);
+        boosterHint.Init();
 
     }
 

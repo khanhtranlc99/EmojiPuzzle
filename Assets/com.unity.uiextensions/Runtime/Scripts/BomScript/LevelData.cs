@@ -6,6 +6,7 @@ using UnityEditor;
 using System;
 using DG.Tweening;
 using Newtonsoft.Json;
+using System.Linq;
 public enum Difficult
 {
     Normal,
@@ -26,16 +27,41 @@ public class LevelData : SerializedMonoBehaviour
     public Transform parentEmoji;
     public Transform leftPost;
     public Transform rightPost;
-
+    public EmojiBase GetEmojiBaseById(int idParam)
+    {
+        foreach (var item in lsEmoji)
+        {
+            if (item.valueNumber == idParam)
+            {
+                return item;
+            }
+        }
+        return null;
+    }
 
     public void Init()
     {
         foreach(var item in lsEmoji)
         {
             item.SetFirstPost();
+            item.transform.localScale = Vector3.zero;
         }
-    }
 
+        Sequence sequence = DOTween.Sequence();
+        lsEmoji = lsEmoji.OrderBy(x => x.valueNumber).ToList();
+
+        // Cập nhật thứ tự trong hierarchy
+        for (int i = 0; i < lsEmoji.Count; i++)
+        {
+            lsEmoji[i].transform.SetSiblingIndex(i);
+            sequence.Join(lsEmoji[i].transform.DOScale(Vector3.one, 0.5f));
+        }
+        sequence.OnComplete(delegate {
+            
+            GamePlayController.Instance.tutGamePlay.StartTut(); }
+        );
+    }
+ 
     [Button]  
     
     public void SetUp()
@@ -49,6 +75,7 @@ public class LevelData : SerializedMonoBehaviour
         {
             item.HandleRemove(); 
         }
+
 
 
     }

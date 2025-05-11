@@ -799,7 +799,7 @@ MonoBehaviour:
   delayTime: 0.5
   winMusic: {fileID: 8300000, guid: 9cbb585576e1da54796972b57fd8b395, type: 3}
   loseMusic: {fileID: 8300000, guid: e3d8acae1e684a943b58832ee8f3aa45, type: 3}
-  BGMusic: {fileID: 8300000, guid: bb640e15de012c34eab5232e3ddfde43, type: 3}
+  BGMusic: {fileID: 8300000, guid: 17804ee3da36a1e488569e587aa202f0, type: 3}
   clickSound: {fileID: 8300000, guid: b776a425b4de1ed44801f91f6bc83ca1, type: 3}
   startLevel: {fileID: 8300000, guid: 8b0141a246fd6bf43843caf02897a04b, type: 3}
 --- !u!1 &919154516
@@ -1078,6 +1078,7 @@ GameObject:
   m_Component:
   - component: {fileID: 1573333643}
   - component: {fileID: 1573333644}
+  - component: {fileID: 1573333645}
   m_Layer: 0
   m_Name: AdmobAds
   m_TagString: Untagged
@@ -1109,19 +1110,22 @@ MonoBehaviour:
   m_GameObject: {fileID: 1573333642}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 558c85b8ff2cb4c479d62f86e362aa55, type: 3}
+  m_Script: {fileID: 11500000, guid: c4a42fa9c3e1547468959f3ac3d74cf2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  offBanner: 0
   countdownAds: 0
-  countdownAdsOpenAppAds: 0
-  IsMRecReady: 0
-  wasShowMer: 0
-  canShowOpenAppAds: 0
-  wasShowOpenAppAdsInGame: 0
-  lockShowOpenAppAds: 0
-  coutOpenAdsLoad: 0
-  showingMREC: 0
+--- !u!114 &1573333645
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1573333642}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 35437f9ada7e7b84681bb6f14ce7906d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!4 &1678449366
 Transform:
   m_ObjectHideFlags: 0
@@ -1886,6 +1890,7 @@ GameObject:
   m_Component:
   - component: {fileID: 8893301430582999387}
   - component: {fileID: 8381228606123546015}
+  - component: {fileID: 8893301430582999388}
   m_Layer: 0
   m_Name: GameController
   m_TagString: Untagged
@@ -2023,6 +2028,7 @@ MonoBehaviour:
   heartGame: {fileID: 1233693554}
   currentScene: 0
   startLoading: {fileID: 2054971388}
+  mPControlle: {fileID: 8893301430582999388}
 --- !u!114 &8396620061103310618
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -2077,6 +2083,18 @@ Transform:
   - {fileID: 876225622}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &8893301430582999388
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5451924455020722353}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 35437f9ada7e7b84681bb6f14ce7906d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1660057539 &9223372036854775807
 SceneRoots:
   m_ObjectHideFlags: 0

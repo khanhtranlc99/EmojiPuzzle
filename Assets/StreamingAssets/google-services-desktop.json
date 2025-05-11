@@ -1,13 +1,13 @@
 {
   "project_info": {
-    "project_number": "280352468316",
-    "project_id": "emoji-puzzle-6d273",
-    "storage_bucket": "emoji-puzzle-6d273.firebasestorage.app"
+    "project_number": "562849957897",
+    "project_id": "emoji-puzzle-1ac3a",
+    "storage_bucket": "emoji-puzzle-1ac3a.firebasestorage.app"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:280352468316:android:3891864f48f37623a42599",
+        "mobilesdk_app_id": "1:562849957897:android:f30cbf04d82f13161a50d8",
         "android_client_info": {
           "package_name": "com.PyraheartStudio.EmojiPuzzle"
         }
@@ -15,7 +15,7 @@
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyBtpKtkHvzjCHlUN3xIlUVzYxYOnxe3WGg"
+          "current_key": "AIzaSyDPPUTF0L_PzVLT067BSzReLO1ToAmqsF0"
         }
       ],
       "services": {

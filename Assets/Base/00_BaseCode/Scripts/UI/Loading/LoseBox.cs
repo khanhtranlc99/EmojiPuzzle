@@ -60,7 +60,7 @@ public class LoseBox : BaseBox
     public void HandleAdsRevive()
     {
         GameController.Instance.musicManager.PlayClickSound();
-        GameController.Instance.admobAds.ShowVideoReward(
+        GameController.Instance.admobAds.ShowRewardedAd(
                     actionReward: () =>
                     {
                        
@@ -79,9 +79,9 @@ public class LoseBox : BaseBox
                          isSpawnItemPlayer: true
                          );
                     },
-                    actionClose: null,
-                    ActionWatchVideo.ReviveFreeLoseBox,
-                    UseProfile.CurrentLevel.ToString());
+               
+                    ActionWatchVideo.ReviveFreeLoseBox 
+                   );
 
 
 

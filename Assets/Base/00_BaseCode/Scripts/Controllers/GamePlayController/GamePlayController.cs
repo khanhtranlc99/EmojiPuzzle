@@ -19,10 +19,11 @@ public class GamePlayController : Singleton<GamePlayController>
     public StateGame stateGame;
     public PlayerContain playerContain;
     public GameScene gameScene;
- 
- 
- 
-    
+    public TutorialFunController tutGamePlay;
+    public TutorialFunController tutHint;
+    public AudioClip apearSfx;
+
+
     protected override void OnAwake()
     {
         //  GameController.Instance.currentScene = SceneType.GamePlay;
@@ -38,10 +39,15 @@ public class GamePlayController : Singleton<GamePlayController>
    
         playerContain.Init();
         gameScene.Init(playerContain.levelData);
+        tutGamePlay.Init();
+        tutHint.Init();
+        GameController.Instance.musicManager.PlayOneShot(apearSfx);
+        GameController.Instance.AnalyticsController.StartLevel(UseProfile.CurrentLevel);
 
-
-
-
+    }
+    public void PlaySfxApear()
+    {
+    
     }
    
 }

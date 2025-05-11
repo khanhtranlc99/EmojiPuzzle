@@ -174,7 +174,7 @@ public class SettingBox : BaseBox
     private void OnClickButtonClose()
     {
         GameController.Instance.musicManager.PlayClickSound();
-        GameController.Instance.admobAds.ShowInterstitial(false, actionIniterClose: () => { Next(); }, actionWatchLog: "BtnCloseSettingBox");
+        GameController.Instance.admobAds.ShowInterstitialAd(actionIniterClose: () => { Next(); });
 
         void Next()
         {

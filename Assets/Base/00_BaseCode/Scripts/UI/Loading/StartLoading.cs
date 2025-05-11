@@ -2,7 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
-using UnityEngine.SceneManagement;
+using DG.Tweening;
 public class StartLoading : MonoBehaviour
 {
     public Text txtLoading;
@@ -27,23 +27,28 @@ public class StartLoading : MonoBehaviour
         yield return new WaitForSeconds(1);
         progressBar.fillAmount = 0f;
         string name = "";
-        if (!UseProfile.FirstLoading)
-        {
-            name = SceneName.GAME_PLAY;
-        }
-        else
-        {
-            name = SceneName.HOME_SCENE;
-        }
-        var _asyncOperation = SceneManager.LoadSceneAsync(name, LoadSceneMode.Single);
-       
-        while (!_asyncOperation.isDone)
-        {
-            progressBar.fillAmount = Mathf.Clamp01(_asyncOperation.progress / 0.9f);
-            yield return null;
+        //if (!UseProfile.FirstLoading)
+        //{
+        //    name = SceneName.GAME_PLAY;
+        //}
+        //else
+        //{
+        //    name = SceneName.HOME_SCENE;
 
-        
-        }
+        progressBar.DOFillAmount(1, 0.5f).OnComplete(delegate
+        {
+            Initiate.Fade(SceneName.GAME_PLAY, Color.black, 2f);
+        });
+ 
+        //var _asyncOperation = SceneManager.LoadSceneAsync(name, LoadSceneMode.Single);
+
+        //while (!_asyncOperation.isDone)
+        //{
+        //    progressBar.fillAmount = Mathf.Clamp01(_asyncOperation.progress / 0.9f);
+        //    yield return null;
+
+
+        //}
     }
 
     private IEnumerator LoadAdsToChangeScene()

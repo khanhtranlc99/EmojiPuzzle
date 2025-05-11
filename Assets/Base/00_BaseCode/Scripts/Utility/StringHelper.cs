@@ -84,6 +84,8 @@ public static class StringHelper
     public const string NUMB_WATCH_ADS_COIN = "numb_watch_ads_coin";
     public const string WAS_BOUGHT_UNLIMIT_TIME = "was_bought_unlimit_time";
     public const string NEED_CHECK_SHOP = "need_check_shop";
+
+    public const string HINT_BOOSTER = "hint_booster";
 }
 
 public class PathPrefabs

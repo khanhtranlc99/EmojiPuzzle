@@ -13,42 +13,40 @@ MonoBehaviour:
   m_Name: LevelChestData
   m_EditorClassIdentifier: 
   lsLevelChest:
-  - level: 4
-    giftType: 5
+  - level: 3
+    giftType: 15
+    amount: 3
+  - level: 8
+    giftType: 15
     amount: 2
-  - level: 6
-    giftType: 4
+  - level: 12
+    giftType: 15
     amount: 2
-  - level: 15
-    giftType: 2
-    amount: 10
-  - level: 20
-    giftType: 2
-    amount: 20
-  - level: 25
-    giftType: 2
-    amount: 10
-  - level: 30
-    giftType: 4
+  - level: 17
+    giftType: 15
     amount: 1
-  - level: 40
-    giftType: 2
-    amount: 10
-  - level: 50
-    giftType: 5
+  - level: 21
+    giftType: 15
+    amount: 2
+  - level: 26
+    giftType: 15
+    amount: 2
+  - level: 31
+    giftType: 15
+    amount: 2
+  - level: 36
+    giftType: 15
+    amount: 2
+  - level: 41
+    giftType: 15
+    amount: 2
+  - level: 46
+    giftType: 15
+    amount: 2
+  - level: 51
+    giftType: 15
     amount: 1
-  - level: 60
-    giftType: 2
-    amount: 10
-  - level: 70
-    giftType: 2
-    amount: 20
-  - level: 80
-    giftType: 2
-    amount: 20
-  - level: 90
-    giftType: 2
-    amount: 10
-  - level: 100
-    giftType: 2
-    amount: 10
+  levelChest:
+    level: 3
+    giftType: 15
+    amount: 3

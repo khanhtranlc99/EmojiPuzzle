@@ -268,15 +268,15 @@ public class UseProfile : MonoBehaviour
         }
     }
 
-    public static int DestroyScewBooster
+    public static int HintBooster
     {
         get
         {
-            return PlayerPrefs.GetInt(StringHelper.REDO_BOOSTER, 0);
+            return PlayerPrefs.GetInt(StringHelper.HINT_BOOSTER, 0);
         }
         set
         {
-            PlayerPrefs.SetInt(StringHelper.REDO_BOOSTER, value);
+            PlayerPrefs.SetInt(StringHelper.HINT_BOOSTER, value);
             PlayerPrefs.Save();
          
         }

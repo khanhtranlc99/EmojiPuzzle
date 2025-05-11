@@ -108,14 +108,14 @@ public abstract class EmojiBase : MonoBehaviour
 
     public void HandlePlayOpenSound()
     {
-      //  GameController.Instance.musicManager.PlayOneShot(OpenSfx);
+        GameController.Instance.musicManager.PlayOneShot(OpenSfx);
         MMVibrationManager.Haptic(HapticTypes.HeavyImpact);
 
     }
 
     public void HandlePlayCloseSound()
     {
-      //  GameController.Instance.musicManager.PlayOneShot(CloseSfx);
+        GameController.Instance.musicManager.PlayOneShot(CloseSfx);
         MMVibrationManager.Haptic(HapticTypes.HeavyImpact);
     }
 

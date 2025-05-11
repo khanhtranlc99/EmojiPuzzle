@@ -38,14 +38,14 @@ public class EmojiController : MonoBehaviour
         }
      }
      
-     [SerializeField] GameObject vfxGrass;
-        [SerializeField] GameObject vfxRock;
+     [SerializeField] GameObject vfxStar;
+        [SerializeField] GameObject vfxSmoke;
      public void Init(LevelData param)
      {
         currentValue = 1;
         target = param.lsEmoji.Count;
-        SimplePool2.Preload(vfxGrass,30);
-          SimplePool2.Preload(vfxRock,30);
+        SimplePool2.Preload(vfxStar,30);
+          SimplePool2.Preload(vfxSmoke,30);
      }
      public void HandleBlock(EmojiBase block)
      {
@@ -63,7 +63,7 @@ public class EmojiController : MonoBehaviour
                     if(!listBlockFill.Contains(block))
                     {
                         listBlockFill.Add(block);
-                      var tempvfx = SimplePool2.Spawn(vfxGrass);
+                      var tempvfx = SimplePool2.Spawn(vfxStar);
                       tempvfx.transform.position = block.transform.position;
                       block.HandlePlayOpenSound();
                     }
@@ -81,7 +81,7 @@ public class EmojiController : MonoBehaviour
                     {
                         listBlockFill.Add(block);
                           block.HandlePlayOpenSound();
-                      var tempvfx = SimplePool2.Spawn(vfxGrass);
+                      var tempvfx = SimplePool2.Spawn(vfxStar);
                       tempvfx.transform.position = block.transform.position;
                     }
             }
@@ -106,7 +106,7 @@ public class EmojiController : MonoBehaviour
                                 {
                                    listBlockFill.Add(block);
                                      block.HandlePlayOpenSound();
-                                   var tempvfx = SimplePool2.Spawn(vfxGrass);
+                                   var tempvfx = SimplePool2.Spawn(vfxStar);
                                    tempvfx.transform.position = block.transform.position;
                                 }
                             }
@@ -124,7 +124,7 @@ public class EmojiController : MonoBehaviour
                     {
                         listBlockFill.Add(block);
                           block.HandlePlayOpenSound();
-                        var tempvfx = SimplePool2.Spawn(vfxGrass);
+                        var tempvfx = SimplePool2.Spawn(vfxStar);
                       tempvfx.transform.position = block.transform.position;
                     }
                         }
@@ -145,6 +145,7 @@ public class EmojiController : MonoBehaviour
                     {
 
                         EmojiBase blockToRemove = listBlockFill[i];
+         
                         blockToRemove.HandlePlayCloseSound();
                         blockToRemove.HandleOff();
                         listBlockFill.RemoveAt(i);
@@ -232,14 +233,14 @@ public class EmojiController : MonoBehaviour
         }
     }
      
-    public void HandleSpawnRockVfx(EmojiBase block)
+    public void HandleSpawnBreakVfx(EmojiBase block)
     {
-          var tempvfx = SimplePool2.Spawn(vfxRock);
+          var tempvfx = SimplePool2.Spawn(vfxSmoke);
          tempvfx.transform.position = block.transform.position;
     }
      public void HandleSpawnGrassVfx(EmojiBase block)
     {
-          var tempvfx = SimplePool2.Spawn(vfxGrass);
+          var tempvfx = SimplePool2.Spawn(vfxStar);
          tempvfx.transform.position = block.transform.position;
     }
 }

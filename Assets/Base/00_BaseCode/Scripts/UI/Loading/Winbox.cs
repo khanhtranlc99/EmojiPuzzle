@@ -20,9 +20,10 @@ public class Winbox : BaseBox
     }
 
     public Button nextButton;
-   // public GiftBar giftBar;
+    public GiftBar giftBar;
 
-
+    public List<GameObject> lsObj;
+    public Transform parent;
 
     public void Init()
     {
@@ -32,19 +33,21 @@ public class Winbox : BaseBox
 
         UseProfile.WinStreak += 1;
         GameController.Instance.musicManager.PlayWinSound();
+        var temp = Instantiate(lsObj[GamePlayController.Instance.playerContain.levelData.idEmoji]);
+        temp.transform.SetParent(parent,false);
     }
     public void InitState()
     {
 
-     //   giftBar.Init(this, delegate { HandleScaleBtn(); });
+        giftBar.Init(this, delegate { HandleScaleBtn(); });
         UseProfile.CurrentLevel += 1;
         if (UseProfile.CurrentLevel >= 500)
         {
             UseProfile.CurrentLevel = 500;
         }
-        //   GameController.Instance.admobAds.HandleShowMerec();
+    
 
-        HandleScaleBtn();
+
 
     }
 
@@ -58,12 +61,12 @@ public class Winbox : BaseBox
 
 
 
-        GameController.Instance.admobAds.ShowInterstitial(false, actionIniterClose: () => { Next(); }, actionWatchLog: "InterWinBox");
+        GameController.Instance.admobAds.ShowInterstitialAd(  actionIniterClose: () => { Next(); } );
         void Next()
         {
 
             Close();
-           // GameController.Instance.admobAds.HandleHideMerec();
+         
             Initiate.Fade("GamePlay", Color.black, 2f);
 
         }
@@ -71,7 +74,7 @@ public class Winbox : BaseBox
     private void HandleReward()
     {
         GameController.Instance.musicManager.PlayClickSound();
-        GameController.Instance.admobAds.ShowVideoReward(
+        GameController.Instance.admobAds.ShowRewardedAd(
                    actionReward: () =>
                    {
                        Close();
@@ -89,9 +92,8 @@ public class Winbox : BaseBox
                    {
 
                    },
-                   actionClose: null,
-                   ActionWatchVideo.WinBox_Claim_Coin,
-                   UseProfile.CurrentLevel.ToString());
+                 
+                   ActionWatchVideo.WinBox_Claim_Coin );
     }
     private void OnDestroy()
     {

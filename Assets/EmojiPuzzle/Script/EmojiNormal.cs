@@ -30,6 +30,7 @@ public class EmojiNormal : EmojiBase
     {
         bgEmoji.gameObject.SetActive(true);
         emojiCurrent.transform.DOScale(Vector3.zero, 0.4f).SetEase(Ease.OutBack);
+        GamePlayController.Instance.playerContain.emojiController.HandleSpawnBreakVfx(this);
     }
 
     public override void SetFirstPost()
